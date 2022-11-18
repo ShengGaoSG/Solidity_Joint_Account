@@ -9,24 +9,17 @@
 
 
 ## Table of content
-- [Overview of the project](https://github.com/nataliaburrey/Solidity_Joint_Account#overview-of-the-project) 
-- [Project goals](https://github.com/nataliaburrey/Solidity_Joint_Account#project-goals)
-- [Project steps](https://github.com/nataliaburrey/Solidity_Joint_Account#project-steps)
-- [Software version control](https://github.com/nataliaburrey/Solidity_Joint_Account#software-version-control)
-    - [Work with GitHub](https://github.com/nataliaburrey/Solidity_Joint_Account#work-with-github)
-    - [How to install](https://github.com/nataliaburrey/Solidity_Joint_Account#how-to-install)
-- [Helps recruiters](https://github.com/nataliaburrey/Solidity_Joint_Account#helps-recruiters)
-- [License](https://github.com/nataliaburrey/Solidity_Joint_Account#license)
+- [Overview of the project](https://github.com/ShengGaoSG/Solidity_Joint_Account#overview-of-the-project) 
+- [Project steps](https://github.com/ShengGaoSG/Solidity_Joint_Account#project-steps)
+- [Software version control](https://github.com/ShengGaoSG/Solidity_Joint_Account#software-version-control)
+    - [Work with GitHub](https://github.com/ShengGaoSG/Solidity_Joint_Account#work-with-github)
+    - [How to install](https://github.com/ShengGaoSG/Solidity_Joint_Account#how-to-install)
 
 
 
 ## Overview of the project 
 
 To automate the creation of joint savings accounts, I am creating Solidity smart contract that accepts two user addresses. These addresses will be able to control a joint savings account. Smart contract uses ether management functions to implement a financial institution’s requirements for providing the features of the joint savings account. These features consist of the ability to deposit and withdraw funds from the account.
-
-## Project goals
-
-
 
 
 ## Project steps 
