@@ -2,10 +2,6 @@
 # Creating Joint Account with Solidity
 
 
-<img width="1100" alt="Screen Shot 2021-08-06 at 5 04 23 PM" src="https://user-images.githubusercontent.com/80833988/128581200-d2fe9302-9ca8-4b4b-a184-58e919c692f2.png">
-
-
-
 📌 Challenge 20
 
 > "Smart contract created with Solidity, that accepts two user addresses linked to a joint savings account. Implementing a financial institution’s requirements for provide the ability to deposit and withdraw funds from the account.
@@ -149,7 +145,7 @@ Remix - Ethereum IDE is an open source web and desktop application. It fosters a
 ```
 cd desktop
 
-git clone https://github.com/nataliaburrey/Solidity_Joint_Account.git
+git clone https://github.com/ShengGaoSG/Solidity_Joint_Account.git
 ```
 
 now you can find the folder Solidity_Joint_Account on your desktop
@@ -157,16 +153,3 @@ now you can find the folder Solidity_Joint_Account on your desktop
 
 
 
-## Helps recruiters
-
-The project was created in collaboration with Berkeley Fintech Bootcamp team
-
-
-## License
-
-[MIT](https://github.com/nataliaburrey/Solidity_Joint_Account/blob/main/LICENSE)
-
-
-
-📔 Contact me: 
-📩 nataliaburrey@gmail.com
